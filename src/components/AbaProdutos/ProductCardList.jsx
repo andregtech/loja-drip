@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 // MUDANÇA 1: Precisamos de mais funções do nosso contexto
-import { useCart } from "../../contexts/cartContext";
+import { useCart } from "../../contexts/CartContext";
 
 const ProductCardList = ({ id, image, name, category, price, priceDiscount, fullProduct }) => {
   // MUDANÇA 2: Pegamos as funções 'addToCart', 'removeFromCart' e 'isInCart'
