@@ -1,4 +1,4 @@
-import { useCart } from '../contexts/cartContext';
+import { useCart } from '../contexts/CartContext';
 import { useState } from 'react';
 import { FaQrcode, FaMoneyBillAlt, FaCreditCard } from 'react-icons/fa';
 

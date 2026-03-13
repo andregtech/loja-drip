@@ -2,9 +2,9 @@ import { useParams, Link } from 'react-router-dom';
 import { products } from '../data/products';
 import { FiChevronRight } from 'react-icons/fi';
 
-import ImageGallery from '../components/imageGallery';
-import ProductInfo from '../components/productInfo';
-import RelatedProducts from '../components/relatedProducts';
+import ImageGallery from '../components/ImageGallery';
+import ProductInfo from '../components/ProductInfo';
+import RelatedProducts from '../components/RelatedProducts';
 
 const Breadcrumbs = ({ product }) => (
   <nav className="flex items-center text-sm text-gray-500 mb-4">
