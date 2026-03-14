@@ -1,16 +1,40 @@
-# React + Vite
+# 🛒 LOJA DRIP (Drip Store)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔗 Sobre
+- Este é um projeto front-end desenvolvido com o objetivo de porporcionar uma experiência ao usuário de entrar em um ambiente digital que simule o e-commerce, contendo uma listagem de produtos, carrinho de compras e função para o cadastro de perfil. A estrutura do projeto utiliza padrões de mercado para garantir escalabilidade e fácil manutenção.
 
-Currently, two official plugins are available:
+## 🚀 Visualização
+- Para visualizar o projeto em tempo real, acesse o link do deploy: https://loja-drip-andregtechs-projects.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Funcionalidades
+- Listagem dinâmica de produtos.
+- Filtros de busca e categorias.
+- Carrinho de compras funcional via localStorage.
+- Layout responsivo.
 
-## React Compiler
+## 🛠️ Tecnologias Utilizadas
+- React.js
+- build Vite
+- React Router DOM
+- Tailwind CSS
+- JavaScript
+- Context API
+- Assets
+- localStorage
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Instalação
+- VSCode (editor)
+- Node.js (para ser executado o JavaScript no computador)
+- npm ("instalador de bibliotecas" do JavaScript)
+- No terminal do VSCode (Git Bash)
+Clone o repositório: git clone https://github.com/andregtech/loja-drip.git
+Instale as dependências: npm install
+Inicie o projeto bash: npm run dev
+- Abra no navegador para visualizar a aplicação.
 
-## Expanding the ESLint configuration
+## 👨‍💻 Identificação
+- Este Projeto foi desenvolvido por **André Willamy Dos Santos Moraes** - Aluno do Curso Full Stack - Geração Tech 3.0
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚖️ Licença
+- Este projeto foi desenvolvido em março de 2026, exclusivamente para fins educacionais como parte dos requisitos obrigatórios da **Geração Tech 3.0**.
+- A permissão de uso e avaliação é restrita à equipe docente e de monitoria, sob orientação de **Nazaré Almeida**, visando a validação de competências em Front-end para a obtenção do título no curso **Full Stack**.
