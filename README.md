@@ -6,7 +6,7 @@
 ## 🚀 Visualização
 - Para visualizar o projeto em tempo real, acesse o link do deploy: https://loja-drip-andregtechs-projects.vercel.app/
 
-## 📦 Funcionalidades
+## ✨ Funcionalidades
 - Listagem dinâmica de produtos.
 - Filtros de busca e categorias.
 - Carrinho de compras funcional via localStorage.
@@ -22,7 +22,7 @@
 - Assets
 - localStorage
 
-## Instalação
+## 📦 Instalação
 - VSCode (editor)
 - Node.js (para ser executado o JavaScript no computador)
 - npm ("instalador de bibliotecas" do JavaScript)
