@@ -33,7 +33,7 @@ Inicie o projeto bash: npm run dev
 - Abra no navegador para visualizar a aplicação.
 
 ## 👨‍💻 Identificação
-- Este Projeto foi desenvolvido por **André Willamy Dos Santos Moraes** - Aluno do Curso Full Stack - Geração Tech 3.0
+- Este Projeto foi desenvolvido por **André Willamy Dos Santos Moraes** - Aluno do Full Stack - Geração Tech 3.0
 
 ## ⚖️ Licença
 - Este projeto foi desenvolvido em março de 2026, exclusivamente para fins educacionais como parte dos requisitos obrigatórios da **Geração Tech 3.0**.
